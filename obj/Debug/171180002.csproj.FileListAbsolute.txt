@@ -1,0 +1,10 @@
+C:\Users\akgun\Desktop\171180002\171180002\171180002\bin\Debug\171180002.exe.config
+C:\Users\akgun\Desktop\171180002\171180002\171180002\bin\Debug\171180002.exe
+C:\Users\akgun\Desktop\171180002\171180002\171180002\bin\Debug\171180002.pdb
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\171180002.csprojAssemblyReference.cache
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\_171180002.Form1.resources
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\_171180002.Properties.Resources.resources
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\171180002.csproj.GenerateResource.cache
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\171180002.csproj.CoreCompileInputs.cache
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\171180002.exe
+C:\Users\akgun\Desktop\171180002\171180002\171180002\obj\Debug\171180002.pdb
