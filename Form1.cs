@@ -20,7 +20,7 @@ namespace _171180002
             InitializeComponent();
 
             
-            //prosesler alınıyor ve listboxa ekleniyor...
+            //Taking processes and print 'em all to listbox...
             string prosesler;
 
             Process[] processlist = Process.GetProcesses();
@@ -42,7 +42,7 @@ namespace _171180002
         {
 
         }
-        //SHOWS NUMBER OF THREADS...
+        //Shows number of threads...
         private void sahipOlduğuİplikSayısıToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Process[] processlist = Process.GetProcesses();
@@ -56,7 +56,7 @@ namespace _171180002
             }
         }
 
-        //SHOWS MEMORY USAGE...
+        //Shows memory usage...
         private void bellekKullanımMiktarıToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Process[] processlist = Process.GetProcesses();
@@ -71,7 +71,7 @@ namespace _171180002
             }
         }
 
-        //SHOWS PROCESSOR USAGE (PERCENT)...
+        //Shows processor usage...
         private void işlemciKullanımYüzdesiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Process[] processlist = Process.GetProcesses();
@@ -91,7 +91,7 @@ namespace _171180002
         }
 
 
-        //PROCESS KILLER
+        //Process killer...
         private void buProsesiÖldürToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Process[] processlist = Process.GetProcesses();
